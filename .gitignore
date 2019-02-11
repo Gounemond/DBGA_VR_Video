@@ -93,5 +93,5 @@ $RECYCLE.BIN/
 
 # Other
 
-Assets/Videos/*
-Assets/Assets/Videos/*
+#Assets/Videos/*
+#Assets/Assets/Videos/*
